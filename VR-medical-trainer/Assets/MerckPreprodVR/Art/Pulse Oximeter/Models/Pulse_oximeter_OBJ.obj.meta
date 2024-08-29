@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 9a46b5fbd654c4eea942bff91c3d3faf
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battary_AAA002Mat
+    second: {fileID: 2100000, guid: 4f75f82170c514914aa58459df025412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battary_AAA003Mat
+    second: {fileID: 2100000, guid: fb041b8f4d2504a51b6cc0830929b3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_Oximeter_sensor_Light004Mat
+    second: {fileID: 2100000, guid: ac67a3e3a99534bae9aef9fd93158527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_Oximeter_sensor_Light005Mat
+    second: {fileID: 2100000, guid: 8b904ae69b1714fed819393ca68dabc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_Oximeter_sensor_glass003Mat
+    second: {fileID: 2100000, guid: f876133f526f14cd19594a06dd0a6225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_Oximeter_sensor_glass004Mat
+    second: {fileID: 2100000, guid: f1444bf93dd7f48959bcb5db518fe9ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_axle004Mat
+    second: {fileID: 2100000, guid: e1481d2ef2c4d46938453a05ff8714a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_axleMat
+    second: {fileID: 2100000, guid: e3760900d851f4fea83b93473409fcdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_body_bottom010Mat
+    second: {fileID: 2100000, guid: 3b5405066683d429ea4a517b4963562e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_body_bottom_capMat
+    second: {fileID: 2100000, guid: 7168cecbf95f940c1ad504d8a67c6a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_body_capMat
+    second: {fileID: 2100000, guid: 7feac1bb54d3844cb852206499644fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_body_topMat
+    second: {fileID: 2100000, guid: c40946931c28c4813bdc9aa30be2f413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_buttonMat
+    second: {fileID: 2100000, guid: 01c8665cdfbba4c94a813b10a0b5ab3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_contact_negativeMat
+    second: {fileID: 2100000, guid: 8359ca840b7c64087af9ba91b9bd0f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_contact_negative_spring001Mat
+    second: {fileID: 2100000, guid: 42803cf4b47f9446498bd41c4b303707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_contact_negative_springMat
+    second: {fileID: 2100000, guid: b8fa44a279f9b4187a210820304367c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_contact_positiveMat
+    second: {fileID: 2100000, guid: 916afea828aaf48a7bcf6a8cbff8917a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_displayMat
+    second: {fileID: 2100000, guid: c196a142bcee24b63bfdb920e2070351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_glassMat
+    second: {fileID: 2100000, guid: c8edfb6d5584b44c9863b6072a0b8f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_sensor_body003Mat
+    second: {fileID: 2100000, guid: 5dd991d8e5ab3444d9b245e455ceb16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pulse_oximeter_sensor_body004Mat
+    second: {fileID: 2100000, guid: 052c9d4e94b6e4fbcb33e0296a5af455, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.001
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
